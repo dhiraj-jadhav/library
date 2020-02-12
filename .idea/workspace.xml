@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4062bdcb-cdcb-4cda-b2d4-fce6f7e1e2a8" name="Default Changelist" comment="" />
+    <list default="true" id="4062bdcb-cdcb-4cda-b2d4-fce6f7e1e2a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jhs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1V8xE72CJQPWi7EHLsPTbkh1795" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,8 +35,9 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../NewMaven" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="Errors" />
@@ -203,10 +212,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="249" y="54" width="924" height="684" key="Maven.ArtifactSearchDialog/67.27.1299.741@67.27.1299.741" timestamp="1576664230199" />
-    <state x="205" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1576842845626">
+    <state x="205" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1581505262457">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="205" y="27" width="1024" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1576842845626" />
+    <state x="205" y="27" width="1024" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1581505262457" />
     <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1576836629027">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
