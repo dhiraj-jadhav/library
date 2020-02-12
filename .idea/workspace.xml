@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4062bdcb-cdcb-4cda-b2d4-fce6f7e1e2a8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V8xE72CJQPWi7EHLsPTbkh1795" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NewMaven" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager" selected="Application.librarySystem">
+    <configuration name="Jdbc_Connect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jDbc.Jdbc_Connect" />
+      <module name="library" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jDbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jdbcConnect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.jdbc.jdbcConnect" />
+      <module name="library" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="librarySystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.librarySystem" />
+      <module name="library" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean,install" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Jdbc_Connect" />
+      <item itemvalue="Application.jdbcConnect" />
+      <item itemvalue="Application.librarySystem" />
+      <item itemvalue="Maven.clean,install" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.librarySystem" />
+        <item itemvalue="Application.jdbcConnect" />
+        <item itemvalue="Application.Jdbc_Connect" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4062bdcb-cdcb-4cda-b2d4-fce6f7e1e2a8" name="Default Changelist" comment="" />
+      <created>1576648408339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576648408339</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="311" y="58" width="847" height="677" key="#Project_Structure" timestamp="1577108764045">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="58" width="847" height="677" key="#Project_Structure/67.27.1299.741@67.27.1299.741" timestamp="1577108764045" />
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576660921004">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1576660921004" />
+    <state x="439" y="100" width="544" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1576676595744">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="439" y="100" width="544" height="592" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1576676595744" />
+    <state x="557" y="288" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576838921434">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="557" y="288" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1299.741@67.27.1299.741" timestamp="1576838921434" />
+    <state x="294" y="54" width="824" height="684" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1576838918938">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="294" y="54" width="824" height="684" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/67.27.1299.741@67.27.1299.741" timestamp="1576838918938" />
+    <state x="467" y="264" width="488" height="265" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1576664044941">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="467" y="264" width="488" height="265" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/67.27.1299.741@67.27.1299.741" timestamp="1576664044941" />
+    <state x="344" y="141" width="735" height="513" key="FileChooserDialogImpl" timestamp="1578637420356">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="344" y="141" width="735" height="513" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1578637420356" />
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1576809425827">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1576809425827" />
+    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1576809425827">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1576809425827" />
+    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1576809425827">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1576809425827" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1576809425827">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1576809425827" />
+    <state width="1253" height="219" key="GridCell.Tab.1.bottom" timestamp="1576661531148">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1576661531148" />
+    <state width="1253" height="219" key="GridCell.Tab.1.center" timestamp="1576661531148">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1576661531148" />
+    <state width="1253" height="219" key="GridCell.Tab.1.left" timestamp="1576661531147">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1576661531147" />
+    <state width="1253" height="219" key="GridCell.Tab.1.right" timestamp="1576661531148">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1576661531148" />
+    <state x="249" y="54" width="924" height="684" key="Maven.ArtifactSearchDialog" timestamp="1576664230199">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="249" y="54" width="924" height="684" key="Maven.ArtifactSearchDialog/67.27.1299.741@67.27.1299.741" timestamp="1576664230199" />
+    <state x="205" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1576842845626">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="205" y="27" width="1024" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1576842845626" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1576836629027">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1576836629027" />
+    <state x="389" y="293" width="636" height="224" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1576729054244">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="389" y="293" width="636" height="224" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/67.27.1299.741@67.27.1299.741" timestamp="1576729054244" />
+    <state x="67" y="95" width="1289" height="603" key="new project wizard" timestamp="1576842706019">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="95" width="1289" height="603" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1576842706019" />
+    <state x="380" y="175" width="672" height="677" key="run.anything.popup" timestamp="1576662882241">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="380" y="175" width="672" height="677" key="run.anything.popup/67.27.1299.741@67.27.1299.741" timestamp="1576662882241" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1576736528894">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1576736528894" />
+  </component>
+</project>
